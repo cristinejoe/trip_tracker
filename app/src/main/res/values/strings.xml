@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Trip Tracker</string>
+    <string name="share">Share</string>
+    <string name="delete_vacation">Delete Vacation</string>
+    <string name="add_excursion">Add Excursion</string>
+    <string name="delete_excursion">Delete Excursion</string>
+    <string name="channel_name">DolphinChannel</string>
+    <string name="channel_description">Notifications for Dolphin Live App</string>
+    <string name="notify">Notify</string>
+    <string name="notify_start">Notify Start</string>
+    <string name="notify_end">Notify End</string>
+</resources>

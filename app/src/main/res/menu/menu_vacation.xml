@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/delete_vacation"
+          android:id="@+id/deleteVacation"/>
+    <item android:title="@string/add_excursion"
+        android:id="@+id/addExcursion"/>
+    <item android:title="@string/notify_start"
+          android:id="@+id/notifyStart"/>
+    <item android:title="@string/notify_end"
+        android:id="@+id/notifyEnd"/>
+    <item android:title="@string/share"
+        android:id="@+id/share"/>
+</menu>
